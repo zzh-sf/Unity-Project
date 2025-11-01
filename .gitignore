@@ -34,3 +34,6 @@ Assets/TextMesh Pro/Resources/
 
 # Git LFS
 .gitattributes
+
+# Build output folder (game build) - stop tracking PVZ builds
+PVZ/
